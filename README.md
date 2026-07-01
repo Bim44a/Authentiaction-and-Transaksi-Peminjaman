@@ -23,6 +23,8 @@ Instruksi: Implementasi lengkap fitur pengembalian buku dengan perhitungan denda
 - Update Stok:
   - Stok buku bertambah 1 saat dikembalikan
 
+---
+
 ### 1. View transaksi dengan button "Kembalikan Buku" dan denda
 
 <img width="1467" height="901" alt="image" src="https://github.com/user-attachments/assets/b5b53f15-0b2f-46f4-91c0-7be207a26ab5" />
@@ -44,10 +46,6 @@ Instruksi: Buat halaman laporan transaksi dengan filter.
 
 ### Spesifikasi
 
-### Route
-
-- `/transaksi/laporan`
-
 ### Filter
 
 - Range tanggal (dari–sampai)
@@ -63,6 +61,8 @@ Instruksi: Buat halaman laporan transaksi dengan filter.
 ### Export PDF
 
 - Button untuk export laporan ke PDF
+
+---
 
 ### 1. Filter, tampilan transaksi, dan export PDF
 
@@ -95,26 +95,21 @@ Instruksi: Tambah fitur notifikasi untuk buku yang terlambat dikembalikan.
 
 - Di detail transaksi, tampilkan warning jika sudah melewati tanggal kembali
 
-## Hasil Implementasi
+---
 
-### 1. Dashboard Widget
+### 1. Dashboard Widget Card "Buku Terlambat", Jumlah transaksi yang terlambat, List anggota yang terlambat
 
-![Dashboard Widget](screenshots/dashboard-widget.png)
+<img width="1500" height="905" alt="image" src="https://github.com/user-attachments/assets/f2f440ed-9479-4f20-8756-93b6ee58a069" />
 
-### 2. Badge terlambat di index
 
-![Badge Terlambat](screenshots/badge-terlambat.png)
+### 2. Badge terlambat di index Transaksi
+
+<img width="1709" height="772" alt="image" src="https://github.com/user-attachments/assets/c6d3e14b-d6eb-46e2-9a8d-9dade3df7eb5" />
 
 ### 3. Reminder keterlambatan di detail transaksi
 
-![Reminder](screenshots/reminder-terlambat.png)
+<img width="1096" height="871" alt="image" src="https://github.com/user-attachments/assets/9efa85ed-840d-4eee-ad81-d37bffb53a46" />
 
----
 
-# Submission
-
-## Link Repository GitHub
-
-```text
 https://github.com/username/repository
 ```
