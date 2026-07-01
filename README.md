@@ -10,9 +10,7 @@ Mengimplementasikan sistem login/register menggunakan Laravel Breeze, melindungi
 
 # Tugas 1: Fitur Pengembalian Buku (40%)
 
-## Instruksi
-
-Implementasi lengkap fitur pengembalian buku dengan perhitungan denda.
+Instruksi: Implementasi lengkap fitur pengembalian buku dengan perhitungan denda.
 
 ## Spesifikasi
 
@@ -25,19 +23,20 @@ Implementasi lengkap fitur pengembalian buku dengan perhitungan denda.
 - Update Stok:
   - Stok buku bertambah 1 saat dikembalikan
 
-## Screenshot Hasil Implementasi
+## Hasil Implementasi
 
 ### 1. View transaksi dengan button "Kembalikan Buku" dan denda
 
 <img width="1467" height="901" alt="image" src="https://github.com/user-attachments/assets/b5b53f15-0b2f-46f4-91c0-7be207a26ab5" />
 
-### 2. Tampilan stok berkurang saat buku dipinjam
+### 2. Tampilan stok berkurang saat buku dipinjam (21)
 
-![Stok Berkurang](screenshots/stok-berkurang.png)
+<img width="1382" height="286" alt="image" src="https://github.com/user-attachments/assets/e3387cd8-1dca-4d01-9b59-4ee5ff86918e" />
 
-### 3. Tampilan setelah buku dikembalikan stok normal kembali
 
-![Stok Normal](screenshots/stok-normal.png)
+### 3. Tampilan setelah buku dikembalikan stok normal kembali (22)
+
+<img width="1380" height="278" alt="image" src="https://github.com/user-attachments/assets/bc0de9ef-ead4-45c9-bed3-267949957a5e" />
 
 ---
 
