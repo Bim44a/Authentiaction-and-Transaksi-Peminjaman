@@ -8,11 +8,11 @@ Mengimplementasikan sistem login/register menggunakan Laravel Breeze, melindungi
 
 ---
 
-# Tugas 1: Fitur Pengembalian Buku (40%)
+## Tugas 1: Fitur Pengembalian Buku (40%)
 
 Instruksi: Implementasi lengkap fitur pengembalian buku dengan perhitungan denda.
 
-## Spesifikasi
+### Spesifikasi
 
 - View Detail Transaksi dengan button "Kembalikan Buku"
 - Method kembalikan() di Controller (sudah ada template)
@@ -22,8 +22,6 @@ Instruksi: Implementasi lengkap fitur pengembalian buku dengan perhitungan denda
   - Tampilkan total denda di detail
 - Update Stok:
   - Stok buku bertambah 1 saat dikembalikan
-
-## Hasil Implementasi
 
 ### 1. View transaksi dengan button "Kembalikan Buku" dan denda
 
@@ -40,13 +38,11 @@ Instruksi: Implementasi lengkap fitur pengembalian buku dengan perhitungan denda
 
 ---
 
-# Tugas 2: Laporan Transaksi (30%)
+## Tugas 2: Laporan Transaksi (30%)
 
-## Instruksi
+Instruksi: Buat halaman laporan transaksi dengan filter.
 
-Buat halaman laporan transaksi dengan filter.
-
-## Spesifikasi
+### Spesifikasi
 
 ### Route
 
@@ -68,25 +64,21 @@ Buat halaman laporan transaksi dengan filter.
 
 - Button untuk export laporan ke PDF
 
-## Hasil Implementasi
-
 ### 1. Filter, tampilan transaksi, dan export PDF
 
-![Laporan Transaksi](screenshots/laporan-transaksi.png)
+<img width="1418" height="773" alt="image" src="https://github.com/user-attachments/assets/161a514d-8ae8-4378-bf60-5c9964527d06" />
 
 ### 2. Hasil export PDF
 
-![Export PDF](screenshots/export-pdf.png)
+<img width="1153" height="497" alt="image" src="https://github.com/user-attachments/assets/418149c8-a354-4be1-9082-649c362273e6" />
 
 ---
 
-# Tugas 3: Notifikasi Terlambat (30%)
+## Tugas 3: Notifikasi Terlambat (30%)
 
-## Instruksi
+Instruksi: Tambah fitur notifikasi untuk buku yang terlambat dikembalikan.
 
-Tambah fitur notifikasi untuk buku yang terlambat dikembalikan.
-
-## Spesifikasi
+### Spesifikasi
 
 ### Dashboard Widget
 
