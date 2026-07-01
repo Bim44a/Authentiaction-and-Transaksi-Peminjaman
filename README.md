@@ -25,7 +25,7 @@ Instruksi: Implementasi lengkap fitur pengembalian buku dengan perhitungan denda
 
 ---
 
-### 1. View transaksi dengan button "Kembalikan Buku" dan denda
+### 1. View transaksi dengan button "Kembalikan Buku" dan "Denda"
 
 <img width="1467" height="901" alt="image" src="https://github.com/user-attachments/assets/b5b53f15-0b2f-46f4-91c0-7be207a26ab5" />
 
