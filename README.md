@@ -97,7 +97,7 @@ Instruksi: Tambah fitur notifikasi untuk buku yang terlambat dikembalikan.
 
 ---
 
-### 1. Dashboard Widget Card "Buku Terlambat", Jumlah transaksi yang terlambat, List anggota yang terlambat
+### 1. Dashboard Widget: Card "Buku Terlambat", Jumlah transaksi yang terlambat, List anggota yang terlambat
 
 <img width="1500" height="905" alt="image" src="https://github.com/user-attachments/assets/f2f440ed-9479-4f20-8756-93b6ee58a069" />
 
@@ -110,6 +110,4 @@ Instruksi: Tambah fitur notifikasi untuk buku yang terlambat dikembalikan.
 
 <img width="1096" height="871" alt="image" src="https://github.com/user-attachments/assets/9efa85ed-840d-4eee-ad81-d37bffb53a46" />
 
-
-https://github.com/username/repository
 ```
